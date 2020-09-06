@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
 <h3 align="center">A Data Bender from LCW</h3>
 
-- 💬 Ask me about **ml,dl,al,statistics**
+- 💬 Ask me about **ml,dl,ai,statistics**
 
 - 📫 How to reach me **yagiztumer@yahoo.com**
 
